@@ -4,8 +4,8 @@ gwt {
     minHeapSize="1G"
 
     src = files(file("src/")) // Needs to be in front of "modules" below.
-    modules 'com.spacethot_revolution.GdxDefinition'
-    devModules 'com.spacethot_revolution.GdxDefinitionSuperdev'
+    modules 'com.spacethot_revolution.game.GdxDefinition'
+    devModules 'com.spacethot_revolution.game.GdxDefinitionSuperdev'
     project.webAppDirName = 'webapp'
 
     compiler {
