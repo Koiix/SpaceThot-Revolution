@@ -3,7 +3,6 @@ package com.spacethot_revolution.game.views;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.ScreenAdapter;
 import com.badlogic.gdx.audio.Sound;
-import com.badlogic.gdx.utils.Timer;
 
 public class MainMenu extends ScreenAdapter {
     Sound music;

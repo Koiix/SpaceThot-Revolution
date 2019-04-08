@@ -3,7 +3,6 @@ package com.spacethot_revolution.game;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
-import com.spacethot_revolution.game.views.MainMenu;
 
 public abstract class Game implements ApplicationListener {
 
@@ -29,6 +28,11 @@ public abstract class Game implements ApplicationListener {
     public void resize (int width, int height) {
         if (screen != null) screen.resize(width, height);
     }
+
+    /*
+      Sets the current screen and calls resize + show on the current screen given the width and
+      height set in the Gdx.graphics module.
+     */
     public void setScreen (Screen screen) {
         if (this.screen != null) this.screen.hide();
         this.screen = screen;

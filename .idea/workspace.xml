@@ -2,169 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6897d73-e44d-42ec-a58e-db5cacbcd5d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/Audio/opening.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/assets/yoshi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/CharacterSelect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/StageSelect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/src/com/spacethot_revolution/STRGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/src/com/str/game/STRGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/src/com/spacethot_revolution/desktop/DesktopLauncher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/src/com/spacethot_revolution/client/HtmlLauncher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-assimp-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-assimp-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-assimp-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-assimp.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-bgfx-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-bgfx-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-bgfx-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-bgfx.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-cuda-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-cuda-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-cuda.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-egl-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-egl-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-egl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-glfw-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-glfw-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-glfw-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-glfw.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jawt-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jawt-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jawt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jemalloc-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jemalloc-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jemalloc-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-jemalloc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-libdivide-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-libdivide-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-libdivide-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-libdivide.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-llvm-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-llvm-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-llvm-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-llvm.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lmdb-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lmdb-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lmdb-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lmdb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lz4-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lz4-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lz4-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-lz4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-meow-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-meow-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-meow-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-meow.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nanovg-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nanovg-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nanovg-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nanovg.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nfd-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nfd-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nfd-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nfd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nuklear-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nuklear-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nuklear-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-nuklear.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-odbc-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-odbc-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-odbc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openal-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openal-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openal-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openal.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opencl-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opencl-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opencl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengl-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengl-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengl-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengles-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengles-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengles-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opengles.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openvr-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openvr-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openvr-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-openvr.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opus-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opus-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opus-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-opus.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-par-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-par-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-par-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-par.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-remotery-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-remotery-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-remotery-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-remotery.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-rpmalloc-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-rpmalloc-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-rpmalloc-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-rpmalloc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-sse-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-sse-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-sse-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-sse.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-stb-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-stb-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-stb-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-stb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyexr-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyexr-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyexr-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyexr.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyfd-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyfd-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyfd-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tinyfd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tootle-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tootle-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tootle-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-tootle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vma-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vma-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vma-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vma.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vulkan-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vulkan-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vulkan-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-vulkan.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-xxhash-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-xxhash-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-xxhash-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-xxhash.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-yoga-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-yoga-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-yoga-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-yoga.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-zstd-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-zstd-natives-macos.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-zstd-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl-zstd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjgl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjglx-debug-1.0.0-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjglx-debug-1.0.0-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/lwjglx-debug-1.0.0.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Bob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Brehm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Devin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Draher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Eric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Helgeland.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Jherid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Joel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Kyle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Owen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Pelle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Zack.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/STRGame.gwt.xml" afterPath="$PROJECT_DIR$/core/src/STRGame.gwt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/build.gradle" afterPath="$PROJECT_DIR$/desktop/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/build.gradle" afterPath="$PROJECT_DIR$/html/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spacethot_revolution.iml" afterPath="$PROJECT_DIR$/spacethot_revolution.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java" afterPath="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -222,85 +76,65 @@
       <file leaf-file-name="STRGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/Settings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharacterSelect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/CharacterSelect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StageSelect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/StageSelect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultStage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="-12">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Draher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Draher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Brehm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Brehm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Bob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1417,15 +1251,20 @@
         <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/StageSelect.java" />
         <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/CharacterSelect.java" />
         <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java" />
-        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java" />
         <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java" />
+        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java" />
+        <option value="$PROJECT_DIR$/desktop/src/com/spacethot_revolution/game/desktop/DesktopLauncher.java" />
+        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Character.java" />
+        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Bob.java" />
+        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Brehm.java" />
+        <option value="$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="24" />
     <option name="width" value="1440" />
-    <option name="height" value="802" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1468,8 +1307,7 @@
               <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
               <item name="spacethot_revolution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="Audio" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
@@ -1483,6 +1321,14 @@
               <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spacethot_revolution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="characters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
@@ -1495,11 +1341,20 @@
             <path>
               <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
               <item name="spacethot_revolution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="desktop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spacethot_revolution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="desktop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="stages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spacethot_revolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spacethot_revolution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="desktop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1512,7 +1367,7 @@
     <property name="SearchEverywhereHistoryKey" value="STRGame&#9;PSI&#9;JAVA://com.spacethot_revolution.game.STRGame" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1657,7 +1512,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1440" height="802" extended-state="0" />
+    <frame x="0" y="24" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1667,12 +1523,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32341" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19722222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1702,8 +1558,8 @@
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1714,10 +1570,6 @@
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1728,10 +1580,10 @@
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1758,14 +1610,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/Screen.java" />
-    <entry file="file://$PROJECT_DIR$/desktop/src/com/spacethot_revolution/game/desktop/DesktopLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/StageSelect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1774,44 +1618,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java">
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/CharacterSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="398">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java">
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/stages/DefaultStage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/CharacterSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1824,16 +1642,144 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Devin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Pelle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Joel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Kyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Zack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Jherid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Owen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Helgeland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Eric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Bob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Draher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/spacethot_revolution/game/desktop/DesktopLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/characters/Brehm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/views/MainMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-12">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/STRGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/spacethot_revolution/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1890,11 +1836,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>core</last-edited>
+          <last-edited>core|core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
